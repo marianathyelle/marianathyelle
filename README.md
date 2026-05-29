@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-Hi, I am Maria, a front-end developer from Brazil with 4 years of experience in web development. For the past 3 years I've been working using React.js and writing code that impacts people's lives.
+Hi, I'm Maria, a front-end developer from Brazil with 5+ years building for the web. I specialize in React.js for client-side applications and React Native for mobile, with a focus on creating interfaces that are as performant as they are intuitive.
 
 #### Languages and Tools:
 <p align="left">
@@ -26,7 +26,7 @@ Hi, I am Maria, a front-end developer from Brazil with 4 years of experience in 
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/marianathyelle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/maria-nathyelle-79067a134/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/marianathyelle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/maria-nathyelle-79067a134/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/maria-nathyelle-maciel-79067a134"/></a>
 </p>
 
 ### Recent Acitivies
