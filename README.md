@@ -26,14 +26,5 @@ Hi, I'm Maria, a front-end developer from Brazil with 5+ years building for the 
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/marianathyelle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/maria-nathyelle-maciel-79067a134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/marianathyelle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a target="_blank" href="https://www.linkedin.com/in/maria-nathyelle-maciel-79067a134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-### Recent Acitivies
-<center>
-<table>
-  <tr>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=marianathyelle&theme=default&show_icons=true&count_private=true" /></td>
-  </tr>
-</table>
-</center>
